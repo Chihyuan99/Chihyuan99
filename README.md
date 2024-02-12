@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Zhiyuan Jiang</h1>
+<h1 align="center">Hi 👋, I'm Doris(Zhiyuan) Jiang</h1>
 
-- 🌱 I graduate from **Carnegie Mellon University** majoring in **Information Systems Management**
+- 🌱 I graduated from **Carnegie Mellon University** majoring in **Information Systems Management**
 
 - 💬 Pronouns: She/Her/Hers
 
-- 📫 How to reach me **zhiyuanj@andrew.cmu.edu**
+- 📫 How to reach me: **zhiyuanj@andrew.cmu.edu**
+
+- 👨‍💻 More about me: [https://www.linkedin.com/in/chihyuanjiang/](https://www.linkedin.com/in/chihyuanjiang/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
