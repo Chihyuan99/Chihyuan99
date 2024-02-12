@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zhiyuan Jiang</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chihyuan99&label=Profile%20views&color=0e75b6&style=flat" alt="chihyuan99" /> </p>
 
 - 🌱 I graduate from **Carnegie Mellon University** majoring in **Information Systems Management**
 
@@ -16,4 +15,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chihyuan99&show_icons=true&locale=en&layout=compact" alt="chihyuan99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chihyuan99&" alt="chihyuan99" /></p>
