@@ -4,7 +4,7 @@
 
 - 💬 Pronouns: She/Her/Hers
 
-- 📫 How to reach me: **zhiyuanj@andrew.cmu.edu**
+- 📫 How to reach me: **dorisjzy@gmail.com**
 
 - 👨‍💻 More about me: [https://www.linkedin.com/in/chihyuanjiang/](https://www.linkedin.com/in/chihyuanjiang/)
 
